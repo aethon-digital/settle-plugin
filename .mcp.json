@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "settle": {
+      "type": "http",
+      "url": "https://settle.ink/api/mcp"
+    }
+  }
+}

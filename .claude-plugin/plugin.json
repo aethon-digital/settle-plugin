@@ -1,0 +1,17 @@
+{
+  "name": "settle-group-decisions",
+  "displayName": "Settle",
+  "version": "1.0.0",
+  "description": "Create a group poll, share one link, and read the result. Voters open the link and vote in their browser, with no app or account, up to 10 voters per poll. Look up how the group settled the same question before. The agent proposes; the group decides.",
+  "author": {
+    "name": "Aethon Digital"
+  },
+  "homepage": "https://settle.ink/app",
+  "repository": "https://github.com/aethon-digital/SETTLE-APP/tree/main/plugins/settle-plugin",
+  "license": "MIT",
+  "keywords": ["group-decisions", "polls", "voting"],
+  "icon": "./icon.png",
+  "supportUrl": "https://settle.ink/support",
+  "privacyPolicyUrl": "https://settle.ink/privacy",
+  "termsOfServiceUrl": "https://settle.ink/terms"
+}
